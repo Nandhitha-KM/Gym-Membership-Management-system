@@ -6,10 +6,15 @@ The system follows a layered architecture using DAO pattern and transaction hand
 Features
 
 Add new member
+
 View member / all members
+
 Enroll membership (transactional)
+
 Cancel membership
+
 Remove member (only if no active membership)
+
 Input validation & custom exceptions
 
 Output:
