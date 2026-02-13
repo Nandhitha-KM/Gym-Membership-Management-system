@@ -18,6 +18,7 @@ Remove member (only if no active membership)
 Input validation & custom exceptions
 
 **Project Structure**
+
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/faaca4ef-450a-47e6-8950-b88520fa6f92" />
 
 
